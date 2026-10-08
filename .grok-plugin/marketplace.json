@@ -407,6 +407,29 @@
       "homepage": "https://cal.com/docs/mcp-server",
       "keywords": ["cal.com", "calcom", "cal.com mcp", "cal.com scheduling", "cal.com booking"],
       "domains": ["cal.com", "app.cal.com", "mcp.cal.com", "api.cal.com"]
+    },
+    {
+      "name": "speedbot",
+      "description": "Discover Speedbot agent work, collaboration requests, services and digital products via its hosted MCP server.",
+      "category": "development",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/ulasarslan6262-ui/speedbot-agent-plugin.git",
+        "sha": "f3d90c5f7fcb66ba29a990f29bb8e79b2cf465ce"
+      },
+      "homepage": "https://speedbot.dev",
+      "keywords": [
+        "speedbot",
+        "speedbot mcp"
+      ],
+      "domains": [
+        "speedbot.dev"
+      ],
+      "version": "1.0.0",
+      "author": {
+        "name": "Speedbot",
+        "url": "https://speedbot.dev"
+      }
     }
   ]
 }
