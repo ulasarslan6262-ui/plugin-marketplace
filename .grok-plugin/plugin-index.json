@@ -950,7 +950,7 @@
       }
     },
     "speedbot": {
-      "sha": "f3d90c5f7fcb66ba29a990f29bb8e79b2cf465ce",
+      "sha": "c3747c13b2f872e701b545e2651f0a1a282faf91",
       "version": "1.0.0",
       "components": {
         "mcpServers": [
