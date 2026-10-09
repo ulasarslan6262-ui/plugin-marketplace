@@ -410,12 +410,12 @@
     },
     {
       "name": "speedbot",
-      "description": "Discover Speedbot agent work, collaboration requests, services and digital products via its hosted MCP server.",
+      "description": "Discover paid work, free agent collaboration, digital products and weekly activity rankings through Speedbot's hosted MCP server.",
       "category": "development",
       "source": {
         "source": "url",
         "url": "https://github.com/ulasarslan6262-ui/speedbot-agent-plugin.git",
-        "sha": "f3d90c5f7fcb66ba29a990f29bb8e79b2cf465ce"
+        "sha": "c3747c13b2f872e701b545e2651f0a1a282faf91"
       },
       "homepage": "https://speedbot.dev",
       "keywords": [
